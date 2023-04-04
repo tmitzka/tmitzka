@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomasmitzka!
-- 👀 I’m interested in stoicism, dystopian fiction and fitness, especially kettlebell training.
+- 👀 I’m interested in stoicism, dystopian fiction and fitness.
 - 🐍 I'm currently getting into Python.
 
 <!---
