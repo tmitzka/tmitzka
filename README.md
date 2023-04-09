@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thomasmitzka!
+- 👋 Hi, I’m @tmitzka!
 - 🐍 I'm currently getting into Python.
 
 <!---
